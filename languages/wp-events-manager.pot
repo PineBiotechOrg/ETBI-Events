@@ -1,0 +1,1418 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-03 17:34+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: wp-events-manager/inc/class-wpems-ajax.php:45
+msgid "Remove admin notice successful"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:62
+msgid "Event not found."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:66
+msgid "You must login before register "
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:73
+msgid "has been expired"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:75
+msgid "You have registered this event before"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:77
+msgid "The event is full, the registration is closed"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:99
+#: wp-events-manager/inc/class-wpems-ajax.php:103
+msgid "Invalid request"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:108
+msgid "Invalid event request"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:115
+msgid "Quantity must integer"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:129
+msgid "You are registered this event."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:150
+msgid "is not ready. Please contact administrator to setup payment gateways"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:173
+#, php-format
+msgid ""
+"Book ID <strong>%s</strong> completed! We'll send mail to <strong>%s</"
+"strong> when it is approve."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:188
+msgid "Payment method is not available"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-ajax.php:213
+#, php-format
+msgid "You Must <a href=\"%s\">Login</a>"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-booking.php:63
+#, php-format
+msgid "%s booking event %s"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-booking.php:64
+#: wp-events-manager/inc/class-wpems-booking.php:65
+#, php-format
+msgid "%s booking event %s with %s slot"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-booking.php:88
+#, php-format
+msgid "Booking ID #%s is not exists."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:27
+#: wp-events-manager/inc/class-wpems-gdpr.php:41
+msgid "WPEMS Booking"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:72
+#: wp-events-manager/inc/class-wpems-post-types.php:334
+#: wp-events-manager/templates/emails/register-admin-event.php:35
+#: wp-events-manager/templates/emails/register-event.php:37
+msgid "ID"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:74
+msgid "Created Date"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:78
+msgid "Customer Details"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:81
+msgid "Items"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:83
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:68
+msgid "Total"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:87
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:48
+#: wp-events-manager/templates/emails/register-admin-event.php:41
+#: wp-events-manager/templates/emails/register-event.php:42
+msgid "Payment Method"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:88
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:58
+#: wp-events-manager/templates/emails/register-admin-event.php:53
+#: wp-events-manager/templates/emails/register-event.php:53
+#: wp-events-manager/templates/shortcodes/user-account.php:38
+msgid "No payment"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:91
+#: wp-events-manager/inc/class-wpems-post-types.php:255
+#: wp-events-manager/inc/class-wpems-post-types.php:340
+#: wp-events-manager/templates/emails/register-admin-event.php:42
+#: wp-events-manager/templates/emails/register-event.php:43
+#: wp-events-manager/templates/shortcodes/user-account.php:26
+msgid "Status"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-gdpr.php:98
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:115
+msgid "Event Booking"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:121
+msgctxt "Page slug"
+msgid "user-register"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:122
+msgctxt "Page title"
+msgid "User Register"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:126
+msgctxt "Page slug"
+msgid "user-login"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:127
+msgctxt "Page title"
+msgid "User Login"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:131
+msgctxt "Page slug"
+msgid "forgot-password"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:132
+msgctxt "Page title"
+msgid "Forgot Password"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:136
+msgctxt "Page slug"
+msgid "reset-password"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:137
+msgctxt "Page title"
+msgid "Reset Password"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:141
+msgctxt "Page slug"
+msgid "user-account"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-install.php:142
+msgctxt "Page title"
+msgid "User Account"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:52
+msgctxt "post type general name"
+msgid "Events"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:53
+msgctxt "post type singular name"
+msgid "Event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:54
+msgctxt "admin menu"
+msgid "Events"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:55
+msgctxt "add new on admin bar"
+msgid "Event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:56
+msgctxt "event"
+msgid "Add New"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:57
+msgid "Add New Event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:58
+msgid "New Event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:59
+msgid "Edit Event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:60
+msgid "View Event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:61
+#: wp-events-manager/inc/wpems-core-functions.php:1298
+#: wp-events-manager/templates/shortcodes/user-account.php:21
+msgid "Events"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:62
+msgid "Search Events"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:63
+msgid "Parent Events:"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:64
+msgid "No events found."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:65
+msgid "No events found in Trash."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:70
+msgid "Event post type."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:76
+msgctxt "URL slug"
+msgid "events"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:97
+msgctxt "post type general name"
+msgid "Bookings"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:98
+msgctxt "post type singular name"
+msgid "Booking"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:99
+msgctxt "admin menu"
+msgid "Bookings"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:100
+msgctxt "add new on admin bar"
+msgid "Booking"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:101
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:102
+msgid "Add New Booking"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:103
+msgid "New Booking"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:104
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:40
+msgid "Booking Details"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:105
+msgid "View Booking"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:106
+msgid "Bookings"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:107
+msgid "Search Books"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:108
+msgid "Parent Books:"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:109
+msgid "No books found."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:110
+msgid "No books found in Trash."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:115
+msgid "Description."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:122
+msgctxt "URL slug"
+msgid "event-book"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:144
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:145
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:146
+msgid "Search Categories"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:147
+msgid "All Categories"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:148
+msgid "Parent Category"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:149
+msgid "Parent Category:"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:150
+msgid "Edit Category"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:151
+msgid "Update Category"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:152
+msgid "Add New Category"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:153
+msgid "New Category Name"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:154
+msgid "Category"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:175
+msgctxt "taxonomy general name"
+msgid "Event Tags"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:176
+msgctxt "taxonomy singular name"
+msgid "Event Tag"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:177
+msgid "Search Tags"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:178
+msgid "All Tags"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:179
+msgid "Parent Tag"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:180
+msgid "Parent Tag:"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:181
+msgid "Edit Tag"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:182
+msgid "Update Tag"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:183
+msgid "Add New Tag"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:184
+msgid "New Tag Name"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:185
+msgid "Tag"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:207
+msgctxt "Booking status"
+msgid "Cancelled"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:212
+#, php-format
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:216
+msgctxt "Booking status"
+msgid "Pending"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:221
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:225
+msgctxt "Booking status"
+msgid "Processing"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:230
+#, php-format
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:234
+msgctxt "Booking status"
+msgid "Completed"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:239
+#, php-format
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:253
+msgid "Start"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:254
+msgid "End"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:256
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:37
+msgid "Price"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:257
+msgid "Booked / Total"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:310
+#: wp-events-manager/inc/class-wpems-post-types.php:371
+#: wp-events-manager/templates/emails/register-admin-event.php:50
+#: wp-events-manager/templates/emails/register-event.php:50
+#: wp-events-manager/templates/loop/register.php:31
+#: wp-events-manager/templates/shortcodes/user-account.php:35
+msgid "Free"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:312
+#, php-format
+msgid "<span class=\"event_auth_event_type\">%s/%s</span>"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:312
+msgid "slot"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:316
+msgid "Unlimited"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:333
+msgid ""
+"<label class=\"screen-reader-text __web-inspector-hide-shortcut__\" for=\"cb-"
+"select-all-1\">Select All</label><input id=\"cb-select-all-1\" type="
+"\"checkbox\">"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:335
+#: wp-events-manager/templates/emails/register-admin-event.php:37
+#: wp-events-manager/templates/emails/register-event.php:38
+msgid "Event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:336
+msgid "User"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:337
+msgid "Date"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:338
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:46
+#: wp-events-manager/templates/emails/register-admin-event.php:40
+#: wp-events-manager/templates/emails/register-admin-event.php:50
+#: wp-events-manager/templates/emails/register-event.php:41
+#: wp-events-manager/templates/emails/register-event.php:50
+#: wp-events-manager/templates/shortcodes/user-account.php:23
+#: wp-events-manager/templates/shortcodes/user-account.php:35
+msgid "Cost"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:339
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:47
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:31
+#: wp-events-manager/templates/emails/register-admin-event.php:39
+#: wp-events-manager/templates/emails/register-event.php:40
+#: wp-events-manager/templates/loop/booking-form.php:21
+#: wp-events-manager/templates/shortcodes/user-account.php:24
+msgid "Quantity"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:363
+#, php-format
+msgid "<a href=\"%s\">%s</a>"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:493
+#: wp-events-manager/inc/class-wpems-post-types.php:496
+#: wp-events-manager/inc/class-wpems-post-types.php:499
+msgid "Event updated."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:494
+msgid "Custom field updated."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:495
+msgid "Custom field deleted."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:498
+#, php-format
+msgid "Book restored to revision from %s"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:500
+msgid "Event saved."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:501
+msgid "Event submitted."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:503
+#, php-format
+msgid "Event scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:505
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:507
+msgid "Event draft updated."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:513
+msgid "View event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-post-types.php:519
+msgid "Preview event"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-shortcodes.php:179
+#: wp-events-manager/inc/class-wpems-shortcodes.php:211
+msgid "Check your email for a link to reset your password."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-user-process.php:48
+msgid "You have been sign out!"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-user-process.php:140
+#: wp-events-manager/inc/class-wpems-user-process.php:144
+#: wp-events-manager/inc/class-wpems-user-process.php:148
+#: wp-events-manager/inc/class-wpems-user-process.php:157
+msgid "ERROR"
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-user-process.php:144
+msgid "Username is required."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-user-process.php:148
+msgid "Password is required."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-user-process.php:157
+msgid "A user could not be found with this email address."
+msgstr ""
+
+#: wp-events-manager/inc/class-wpems-user-process.php:179
+msgid "You have logged in"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:413
+msgid "Years"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:414
+msgid "Months"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:415
+msgid "Weeks"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:416
+msgid "Days"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:417
+msgid "Hours"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:418
+msgid "Minutes"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:419
+msgid "Seconds"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:422
+msgid "Year"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:423
+msgid "Month"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:424
+msgid "Week"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:425
+msgid "Day"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:426
+msgid "Hour"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:427
+msgid "Minute"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:428
+msgid "Second"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:432
+msgid "Something went wrong"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1040
+#: wp-events-manager/inc/wpems-core-functions.php:1069
+#, php-format
+msgid "<span class=\"event_booking_status cancelled\">%s</span>"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1044
+#: wp-events-manager/inc/wpems-core-functions.php:1070
+#, php-format
+msgid "<span class=\"event_booking_status pending\">%s</span>"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1048
+#: wp-events-manager/inc/wpems-core-functions.php:1071
+#, php-format
+msgid "<span class=\"event_booking_status processing\">%s</span>"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1052
+#: wp-events-manager/inc/wpems-core-functions.php:1072
+#, php-format
+msgid "<span class=\"event_booking_status completed\">%s</span>"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1069
+msgid "Cancelled"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1070
+msgid "Pending"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1071
+msgid "Processing"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1072
+msgid "Completed"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1112
+msgid "Confirm Password is not match."
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1119
+#: wp-events-manager/inc/wpems-core-functions.php:1128
+#: wp-events-manager/inc/wpems-core-functions.php:1130
+#: wp-events-manager/inc/wpems-core-functions.php:1134
+#: wp-events-manager/inc/wpems-core-functions.php:1153
+msgid "ERROR: "
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1119
+msgid "Username is required field."
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1121
+msgid "Username is already exists."
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1128
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1130
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1134
+msgid "Password is required field."
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1153
+msgid "Couldn't register."
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1303
+msgid "Categories"
+msgstr ""
+
+#: wp-events-manager/inc/wpems-core-functions.php:1308
+msgid "Tags"
+msgstr ""
+
+#: wp-events-manager/inc/abstracts/class-wpems-abstract-payment-gateway.php:105
+msgid "Payment completed. We will send you email when payment method verify."
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-menu.php:33
+msgid "Events Manager"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-menu.php:39
+msgid "WP Event Users"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-menu.php:39
+msgid "Users"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-menu.php:40
+msgid "WP Event Settings"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-menu.php:40
+msgid "Settings"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-metaboxes.php:24
+msgid "Event Settings"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-metaboxes.php:27
+msgid "Booking Information"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-metaboxes.php:30
+msgid "Booking Actions"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-settings.php:58
+msgid "Your settings have been saved."
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-settings.php:93
+msgid "Save changes"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:22
+msgid "user"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:23
+msgid "users"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:69
+msgid "View"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:80
+msgid "No users found."
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:112
+#: wp-events-manager/templates/shortcodes/form-login.php:13
+#: wp-events-manager/templates/shortcodes/form-register.php:12
+msgid "Username"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:113
+#: wp-events-manager/templates/emails/register-admin-event.php:36
+msgid "Name"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:114
+#: wp-events-manager/templates/shortcodes/form-register.php:17
+msgid "Email"
+msgstr ""
+
+#: wp-events-manager/inc/admin/class-wpems-admin-users.php:242
+msgid "Event Users"
+msgstr ""
+
+#: wp-events-manager/inc/admin/metaboxes/class-wpems-admin-metabox-event.php:28
+msgid "Please make sure event time is validate"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:23
+msgid "Checkout"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:40
+msgid "Checkout Process"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:41
+msgid "General options for system"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:45
+msgid "Booking times free event/email"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:46
+msgid "This controls how many time booking free event of an email"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:49
+msgid "Once"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:50
+msgid "Many"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:56
+msgid "Cancel payment status"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:57
+msgid "How long cancel a payment (hour)"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-checkout.php:77
+msgid "Checkout General"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:23
+msgid "Emails"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:40
+msgid "Email Notifications"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:44
+msgid "Event register"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:45
+msgid "Send email to admin and user when user registers event"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:51
+msgid "From name"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:59
+msgid "Email from"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:67
+msgid "Subject"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:68
+#: wp-events-manager/inc/emails/class-wpems-register-event.php:42
+msgid "Register event"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:75
+msgid "Account register"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-emails.php:76
+msgid "Send notify when user register account"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:23
+msgid "General"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:41
+msgid "General Options"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:45
+msgid "Event registration"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:46
+msgid "Allows user register events"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:52
+msgid "Currency"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:53
+msgid "This controls what the currency prices"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:61
+msgid "Currency Position"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:62
+msgid "This controls the position of the currency symbol"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:65
+msgid "Left"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:66
+msgid "Right"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:67
+msgid "Left with space"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:68
+msgid "Right with space"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:75
+msgid "Thousand Separator"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:82
+msgid "Decimal Separator"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:89
+msgid "Number of Decimals"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:97
+msgid "Google Map API Key"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-general.php:99
+msgid ""
+"Refer on https://developers.google.com/maps/documentation/javascript/get-api-"
+"key#get-an-api-key"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:27
+msgid "Pages"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:47
+msgid "Pages Settings"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:51
+msgid "Register Page"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:52
+msgid "This controls which the register page"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:57
+msgid "Login Page"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:58
+msgid "This controls which the login page"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:63
+#: wp-events-manager/templates/shortcodes/form-login.php:43
+msgid "Forgot Password"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:64
+msgid "This controls which the forgot password page"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:69
+#: wp-events-manager/templates/shortcodes/reset-password.php:55
+msgid "Reset Password"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:70
+msgid "This controls which the reset password page"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:75
+msgid "My Account"
+msgstr ""
+
+#: wp-events-manager/inc/admin/settings/class-wpems-admin-setting-pages.php:76
+msgid "This controls which the user account page"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/booking-actions.php:17
+msgid "Booking Status"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/booking-actions.php:23
+msgid "Update booking event status"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/booking-actions.php:26
+msgid "Booking Notes"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:34
+#, php-format
+msgid "Order %s"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:36
+#, php-format
+msgid "Date %s"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:45
+msgid "Item"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:49
+msgid "Amount"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/booking-details.php:64
+msgid "Sub Total"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:41
+msgid "Set 0 to make it becomes free event"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:47
+msgid "Start/End"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:54
+msgid "to"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:65
+msgid "Location"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:70
+msgid "You need set up Google Map API Key to show map."
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:71
+msgid "Set up here"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/metaboxes/event-settings.php:77
+msgid "Shortcode"
+msgstr ""
+
+#: wp-events-manager/inc/admin/views/settings/select-page.php:25
+msgid "Select Page"
+msgstr ""
+
+#: wp-events-manager/inc/emails/class-wpems-register-event.php:25
+#, php-format
+msgid "Error %s booking ID"
+msgstr ""
+
+#: wp-events-manager/inc/emails/class-wpems-register-event.php:37
+msgid "User is not exists!"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:25
+msgid "PayPal"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:68
+msgid ""
+"Payment is completed. We will send you email when payment status is completed"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:70
+msgid "Booking is cancel."
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:139
+msgid "Paypal Settings"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:140
+msgid "Make payment via Paypal"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:144
+msgid "Enable"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:151
+msgid "Paypal email"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:158
+msgid "Sandbox mode"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:165
+msgid "Paypal Sandbox email"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:200
+msgid "Booking ID is not exists!"
+msgstr ""
+
+#: wp-events-manager/inc/gateways/paypal/class-wpems-payment-gateway-paypal.php:242
+msgid ""
+"Email Business PayPal is invalid. Please contact administrator to setup "
+"PayPal email."
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:14
+msgid "WP Event Countdown"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:15
+msgid "Countdown timer for event"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:71
+msgid "Title:"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:75
+msgid "Carousel Slide:"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:79
+msgid "Navigation:"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:83
+msgid "Pagiantion:"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:87
+msgid "Events:"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:119
+msgid "Upcoming"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:120
+msgid "Happening"
+msgstr ""
+
+#: wp-events-manager/inc/widgets/class-wpems-widget-countdown.php:121
+msgid "Expired"
+msgstr ""
+
+#: wp-events-manager/templates/pagination.php:30
+msgid "<"
+msgstr ""
+
+#: wp-events-manager/templates/pagination.php:31
+msgid ">"
+msgstr ""
+
+#: wp-events-manager/templates/emails/register-admin-event.php:29
+#, php-format
+msgid "User have been registered successful <a href=\"%s\">your event</a>."
+msgstr ""
+
+#: wp-events-manager/templates/emails/register-admin-event.php:38
+#: wp-events-manager/templates/emails/register-event.php:39
+#: wp-events-manager/templates/shortcodes/user-account.php:22
+msgid "Type"
+msgstr ""
+
+#: wp-events-manager/templates/emails/register-event.php:27
+#, php-format
+msgid "Hello %s!"
+msgstr ""
+
+#: wp-events-manager/templates/emails/register-event.php:30
+#, php-format
+msgid ""
+"You have been registered successful <a href=\"%s\">our event</a>. Please go "
+"to the following link for more details.<a href=\"%s\">Your account.</a>"
+msgstr ""
+
+#: wp-events-manager/templates/loop/booking-form.php:41
+msgid ""
+"There are no payment gateway available. Please contact administrator to "
+"setup it."
+msgstr ""
+
+#: wp-events-manager/templates/loop/booking-form.php:50
+#: wp-events-manager/templates/loop/register.php:42
+msgid "Register Now"
+msgstr ""
+
+#: wp-events-manager/templates/loop/countdown.php:16
+msgid "This event has expired"
+msgstr ""
+
+#: wp-events-manager/templates/loop/excerpt.php:12
+msgid "View Detail"
+msgstr ""
+
+#: wp-events-manager/templates/loop/register.php:22
+msgid "Total Slot:"
+msgstr ""
+
+#: wp-events-manager/templates/loop/register.php:26
+msgid "Booked Slot:"
+msgstr ""
+
+#: wp-events-manager/templates/loop/register.php:30
+msgid "Cost:"
+msgstr ""
+
+#: wp-events-manager/templates/loop/register.php:39
+msgid "You have registered this event before."
+msgstr ""
+
+#: wp-events-manager/templates/loop/register.php:45
+#, php-format
+msgid "You must <a href=\"%s\">login</a> before register event."
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/event-countdown.php:26
+msgid "Invalid Event ID"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/forgot-password.php:20
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/forgot-password.php:23
+msgid "Username or Email:"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/forgot-password.php:36
+msgid "Get New Password"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/forgot-password.php:43
+#: wp-events-manager/templates/shortcodes/form-login.php:34
+msgid "Login"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/forgot-password.php:48
+msgid "Create new user"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/form-login.php:18
+#: wp-events-manager/templates/shortcodes/form-register.php:22
+#: wp-events-manager/templates/shortcodes/reset-password.php:19
+msgid "Password"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/form-login.php:26
+msgid "Remember me"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/form-login.php:41
+#: wp-events-manager/templates/shortcodes/form-register.php:43
+#: wp-events-manager/templates/shortcodes/reset-password.php:65
+msgid "Register"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/form-register.php:27
+#: wp-events-manager/templates/shortcodes/reset-password.php:31
+msgid "Confirm Password"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/form-register.php:36
+msgid "Registration confirmation will be emailed to you."
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/form-register.php:49
+#: wp-events-manager/templates/shortcodes/reset-password.php:61
+msgid "Log in"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/form-register.php:50
+msgid "Password Lost and Found"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/form-register.php:50
+msgid "Forgot password?"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/register-completed.php:9
+#, php-format
+msgid ""
+"You have successfully registered to <strong>%s</strong>. We have emailed "
+"your password to <i>%s</i> the email address you entered."
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/register-error.php:7
+msgid "Oops! Something went wrong."
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/user-account.php:11
+#, php-format
+msgid "You are not <a href=\"%s\">login</a>"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/user-account.php:20
+msgid "Booking ID"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/user-account.php:25
+msgid "Method"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/user-account.php:56
+#: wp-events-manager/templates/shortcodes/user-account.php:68
+msgid "« Previous"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/user-account.php:57
+#: wp-events-manager/templates/shortcodes/user-account.php:69
+msgid "Next »"
+msgstr ""
+
+#: wp-events-manager/templates/shortcodes/user-cannot-register.php:7
+msgid "User registration is currently not allowed."
+msgstr ""
