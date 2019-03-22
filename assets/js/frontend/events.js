@@ -64,7 +64,7 @@
 				event_cost_title = $('.widget-area.sidebar-events .book-title.event-cost'),
 				_notices = _self.find('.tp-event-notice'),
 				per_slot = WPEMS.per_slot;
-				_data.splice(_data.findIndex(v => v.name === "action"), 1);
+				_data.splice(_data.findIndex(function(v) { v.name === "action" }), 1);
 				_data.push({ name: 'action', value: 'event_apply_coupon' });
 			$.ajax({
 				url       : WPEMS.ajaxurl,
